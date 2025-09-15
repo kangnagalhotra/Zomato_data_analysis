@@ -44,20 +44,6 @@ The dataset includes information on restaurants, such as:
 - Useful for restaurant business decisions and marketing strategies.
 
 ---
-
-## Sample Visualizations
-
-**Distribution of Ratings**  
-![Ratings](TopCities.png)  
-
-**Top 10 Cuisines**  
-![Cuisines](TopCuisines.png)  
-
-**Online Order Availability**  
-![OnlineOrder](OnlineOrder.png)  
-
----
-
 ## How to Run
 1. Clone the repository:
 git clone https://github.com/kangnagalhotra/Zomato_data_analysis.git
@@ -73,3 +59,4 @@ Data Visualization (Seaborn, Matplotlib)
 Machine Learning (Random Forest Regression)
 Feature Engineering
 Insights & Reporting
+
